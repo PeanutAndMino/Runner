@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1287e7798eb4424a800ce04e30dea93, type: 3}
   m_Name: Jump
   m_EditorClassIdentifier: 
-  powerUpName: A Power Up
+  powerUpName: Jump
   powerUpType: 0

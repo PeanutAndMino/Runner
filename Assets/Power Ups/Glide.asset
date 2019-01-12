@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1287e7798eb4424a800ce04e30dea93, type: 3}
   m_Name: Glide
   m_EditorClassIdentifier: 
-  powerUpName: A Power Up
-  powerUpType: 0
+  powerUpName: Glide
+  powerUpType: 3
